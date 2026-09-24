@@ -1,0 +1,2 @@
+# SundaySummary
+Weekly teachings board
